@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties desires and propositions to all his subjects in Scotland declaring his royall intentions and determination to all the Lords of His privie councell concerning this kingdome signed with his royall signet and now published by authority : likewise the resolution of the kingdome of Scotland to all His Majesties subjects in this nation declaring and manifesting their determination concerning the Earl of Essex being glad tydings for England.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18980</idno><idno type="EEBO-CITATION">12265562</idno>
+  <idno type="VID">197628</idno>
+  <idno type="EEBO-PROQUEST">2240973919</idno>
+  
+            <idno type="STC">Wing C2298</idno>
+            <idno type="OCLC">12265562</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197628)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E116, no 45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties desires and propositions to all his subjects in Scotland declaring his royall intentions and determination to all the Lords of His privie councell concerning this kingdome signed with his royall signet and now published by authority : likewise the resolution of the kingdome of Scotland to all His Majesties subjects in this nation declaring and manifesting their determination concerning the Earl of Essex being glad tydings for England.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Ioseph Scot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: Edinburgh, Scotland : Rob. Bryson, 1642.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="corporate_name">Scotland. --  Privy Council.</term>
+               <term type="corporate_name">England and Wales. --  Privy Council.</term>
+               <term type="corporate_name">Scotland --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197628:1"/>
+            <p>The Kings Majesties DESIRES AND PROPOSITIONS To all His Subjects in <hi>Scotland,</hi> Declaring His Royall Intentions and Determination to all the Lords of His Privie Councell, concerning this King<g ref="char:EOLhyphen"/>dome, <hi>Signed with His Royall Signet, and now published by Authority.</hi> Likewise the Resolution of the Kingdome of <hi>Scotland,</hi> to all His Majesties Subjects in this Na<g ref="char:EOLhyphen"/>tion, Declaring and Manifesting their Determina<g ref="char:EOLhyphen"/>tion concerning the Earl of <hi>Essex,</hi> being glad Tydings for <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>ornament showing angels holding elements of royal blazon or coat of arms</figDesc>
+               <p>
+                  <label>C R</label>
+               </p>
+            </figure>
+            <p>First Printed at <hi>Edinburgh</hi> in <hi>Scotland,</hi> by <hi>Rob. Bryson,</hi> and now reprinted at <hi>London,</hi> for <hi>Ioseph Scot.</hi> MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197628:2"/>
+            <pb facs="tcp:197628:2"/>
+            <div type="propositions">
+               <head>HIS MAIESTIES <hi>PROPOSITIONS</hi> To all his Subjects of Scotland, <hi>Septem.</hi> the 8. 1642.</head>
+               <div type="introduction">
+                  <p>
+                     <seg rend="decorInit">T</seg>HE Kings Majesty having received Ad<g ref="char:EOLhyphen"/>vertisements of som bad Rumours lately spread abroad, after some Consultation therupon, resolved to send a Message to all his loving Sub<g ref="char:EOLhyphen"/>jects of the Kingdom of <hi>SCOTLAND,</hi> to in<g ref="char:EOLhyphen"/>forme, declare, and make known unto them his Dispositions and desires more fully, which was, as followeth.</p>
+               </div>
+               <div type="propositions">
+                  <pb facs="tcp:197628:3"/>
+                  <opener>
+                     <signed>Charles Rex,</signed>
+                  </opener>
+                  <p>RIght Trusty, and wellbeloved, Although we have already written Our minds unto you; yet upon our second thoughts ari<g ref="char:EOLhyphen"/>sing, especially from some particulars com<g ref="char:EOLhyphen"/>ming to Our knowledge, wee find it necessary both for our Selfe, and for the good of that Our Kingdome, to propound unto you these parti<g ref="char:EOLhyphen"/>culars, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <label>I.</label>
+                  </p>
+                  <p>VVe know and feele the Charge to be great and the place to be high, wherein God (the King of Kings) hath placed Us, and that VVee must render an accompt of all Our Actions to him, who in his own time shall judge all men without exceptions of Persons.</p>
+                  <p>
+                     <label>II.</label>
+                  </p>
+                  <p>We have no other intentions, but by Our Government, to honour him by whom Kings Reign, and to procure the good of Our people: and for this end to preserve the Right and Au<g ref="char:EOLhyphen"/>thority wherewith God hath vested us, and which by his providence hath beene derived to Vs by many Princely Progenitors: in the which glory that Our ancient Kingdome, and native Realme of SCOTLAND doth parti<g ref="char:EOLhyphen"/>cipate.</p>
+                  <p>
+                     <label>III.</label>
+                  </p>
+                  <p>VVee did not require of you, that you should sit as Judges upon the Affaires of ano<g ref="char:EOLhyphen"/>ther Kingdome.</p>
+                  <pb facs="tcp:197628:3"/>
+                  <p>VVe only intended to have both our suffe<g ref="char:EOLhyphen"/>rings and Our Actions (as they are exprest in many Papers past betwixt Vs and Our Par<g ref="char:EOLhyphen"/>liament) made throughly knowne unto you: That since VVee have none besides you whom VVe can acquaint with Our Proceedings, you may cleerly see that we have bin so farre from wronging Our Parliament of <hi>ENGLAND,</hi> that we have given them all satisfaction, even above that which they themselves in the be<g ref="char:EOLhyphen"/>ginning did expresse, or almost desire: and as much as could well consist with the safety of Our Person and Honour.</p>
+                  <p>
+                     <label>IV.</label>
+                  </p>
+                  <p>We will not put you in mind of your Na<g ref="char:EOLhyphen"/>turall affection towards Vs, which wee know will rather be kindled then extinguished by Our distresse: Nor of your Covenant, wherin you are zealous of Our Greatnesse and Autho<g ref="char:EOLhyphen"/>rity, and which standeth in that sense wherein you did swear and subscribe it; Nor of the ma<g ref="char:EOLhyphen"/>ny good Laws made in our late Parliament (of which we hope the present and succeeding ge<g ref="char:EOLhyphen"/>nerations shal reap the fruits, when we are dead and gone) Nor of the many promises made to us, upon which we were willing to yeeld to such things for the setling of the Government of that Our Kingdom, in Our personall absence, which neither could we have granted, nor would you have craved, had our greater affairs permitted our Residence amongst you. And whereas wee are most unjustly blamed and ca<g ref="char:EOLhyphen"/>lumniated,</p>
+                  <pb facs="tcp:197628:4"/>
+                  <list>
+                     <item>1. That we are Popishly affected.</item>
+                     <item>2. That Wee are the cause of the Blood-shed in <hi>Ireland.</hi>
+                     </item>
+                     <item>And lastly, That We intend to bring in Forraign Forces.</item>
+                  </list>
+                  <p>To this We answer, and do here protest, and Declare, in presence of him who knowes the most secret of Our Intentions and Actions, that Wee are no wayes conscious to Our Selfe of the guiltinesse of any of the said Aspertions: and do take him to witnesse Our innocencie therein, who only hath the Priviledge to be the Searcher of all hearts.</p>
+                  <p>And if any after so full and plain profession shall distrust this Our free Declaration, VVe attest GOD, That the fault is in the malig<g ref="char:EOLhyphen"/>nanty of their Rebellious Humours, and no wayes deserved on Our part.</p>
+                  <closer>
+                     <signed>Signed by His Majesties Royall Signet, and published for the good of all those that desires to be truly infor<g ref="char:EOLhyphen"/>med of His Majesties intentions.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="resolution">
+               <pb facs="tcp:197628:4"/>
+               <head>The Resolution of the Kn<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghts, Gentry, and Commonalty of the Kingdome of <hi>Scotland,</hi> concerning his Excellence the Earl of <hi>Essex.</hi>
+               </head>
+               <p>VVHereas upon the report and sight of great Convocations suddenly endeavoured and unexpectedly brought into this great Counsell day, for the most part by those who have bin esteemed by the Country, and challenged by the Parliament, as Incendia<g ref="char:EOLhyphen"/>ries, Plotters, and enemies to the peace of this Kingdom. And considering the common Inte<g ref="char:EOLhyphen"/>rest of all the Subjects of this Kingdome to preserve the late peace, so happily concluded betwixt these Nations, and so solemnly esta<g ref="char:EOLhyphen"/>blished by the late Treaty, Oath of Parliament, publike Faith, and the great S<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ales of these Kingdomes, and therefore they desire a solid peace betwixt these Nations in true union, lest upon any pretence they should be dasht one a<g ref="char:EOLhyphen"/>gainst another. Wherin it is declared the Duty of the estates, yea of every subject for to con<g ref="char:EOLhyphen"/>veen and suppresse any evill affected persons who would raise Arms against the Subjects of the other Kingdome without consent of Par<g ref="char:EOLhyphen"/>liament.</p>
+               <pb facs="tcp:197628:5"/>
+               <p>And seeing that these Incendiares doe now so much prevaile, they are resolved to aid and assist His sacred Majesty and the Honourable Court of <hi>PARLIAMENT</hi> against the Ma<g ref="char:EOLhyphen"/>lignant Party, and the wicked Incendiaries that are now about his Majesties Person, whose minds are daily thirsting after bloud.</p>
+               <p>They have also at their Generall meeting at <hi>Edenburgh</hi> concluded of many Matters of high Consequence, being resolved to aid assist his Excellence the Earl of <hi>Essex</hi> against all that shall oppose him, having set down their Reso<g ref="char:EOLhyphen"/>lution to hazard their dearest lives in the main<g ref="char:EOLhyphen"/>tenance of the true Faith and Protestant Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p>The Honourable Court of Parliament are fully resolved and determined to agree with their Brethren of <hi>Scotland</hi> in this their Resolu<g ref="char:EOLhyphen"/>ltion<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, having according to the Scottish Go<g ref="char:EOLhyphen"/>vernment Voted out Bishops.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Pub<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ished by Authoritie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
